@@ -17,6 +17,7 @@ mod tests {
             assert_eq!(word, target);
         }
     }
+>>>>>>> Stashed changes
 
     #[test]
     fn layered_option() {
